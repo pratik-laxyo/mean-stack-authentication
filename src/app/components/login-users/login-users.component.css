@@ -1,0 +1,15 @@
+.errMsg {
+	color: #b31a1a;
+    margin-top: -15px;
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.showErrorMsg {
+	margin-bottom: 15px;
+    background: #f5c5c5;
+    padding: 20px;
+    color: red;
+    font-weight: bold;
+}
